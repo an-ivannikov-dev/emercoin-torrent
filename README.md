@@ -25,7 +25,6 @@
 ├── chainstate/ 60.71 MB
 │   └── ...
 ├── install/ 40.42 MB
-nameindex 37.11 MB
 │   ├── emercoin-0.7.10-osx.dmg 12.70 MB 
 │   ├── emercoin-0.7.10-win32-setup.exe 13.54 MB
 │   └── emercoin-0.7.10-win64-setup.exe 14.18 MB
