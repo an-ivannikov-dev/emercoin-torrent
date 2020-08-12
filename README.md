@@ -35,6 +35,19 @@
 ```
 
 
+### Трекеры
+```
+http://bt4.t-ru.org/ann
+http://retracker.local/announce
+udp://explodie.org:6969
+udp://tracker.coppersurfer.tk:6969
+udp://tracker.leechers-paradise.org:6969
+udp://tracker.openbittorrent.com:80
+udp://tracker.opentrackr.org:1337
+udp://zer0day.ch:1337
+```
+
+
 ### Раздача на RuTracker.org
   - Размер: 859.5 MB (блок 431830 от 2020-08-12 12:41:55).
   - [Torrent файл для загрузки](torrent/blockchain_emc.torrent).
