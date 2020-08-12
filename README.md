@@ -4,6 +4,7 @@
 
 ## Emercoin
   - [Сайт](https://emercoin.com/).
+  - [Explorer](https://explorer.emercoin.com/).
   - [Репозиторий на GitHub](https://github.com/emercoin/emercoin).
   - [Релизы на GitHub](https://github.com/emercoin/emercoin/releases).
   - [Инсталяхи на SourceForge.net](https://sourceforge.net/projects/emercoin/files/latest/download).
