@@ -3,21 +3,21 @@
 
 
 ## Emercoin
-  - [Сайт](https://emercoin.com/).
+  - [WEB site](https://emercoin.com/).
   - [Explorer](https://explorer.emercoin.com/).
-  - [Репозиторий на GitHub](https://github.com/emercoin/emercoin).
-  - [Релизы на GitHub](https://github.com/emercoin/emercoin/releases).
-  - [Инсталяхи на SourceForge.net](https://sourceforge.net/projects/emercoin/files/latest/download).
+  - [GitHub repository](https://github.com/emercoin/emercoin).
+  - [GitHub releases](https://github.com/emercoin/emercoin/releases).
+  - [Instals at SourceForge.net](https://sourceforge.net/projects/emercoin/files/latest/download).
 
 
-### Синхронизация блокчейна
-Время полной синхронизации (до блока 431830 от 2020-08-12 12:41:55) на компьютере (16ГБ ОЗУ (память процесса загружалась менее 1ГБ), i9, SSD и скоростью доступа 100Мбит/с) составило 1час 15минут.
+### Blockchain sync
+The full synchronization time (up to block 431830 from 2020-08-12 12:41:55) on the computer (16GB of RAM (the process memory was loaded less than 1GB), i9, SSD and access speed of 100Mbit/s) was 1hour 15minutes.
 
 
 ## Torrent
 
 
-### Файлы
+### Files
 ```
 ./blockchain_emc/ 879.88 MB
 ├── blocks/ 721.24 MB
@@ -36,7 +36,7 @@
 ```
 
 
-### Трекеры
+### Trackers
 ```
 http://bt4.t-ru.org/ann
 http://retracker.local/announce
@@ -49,9 +49,8 @@ udp://zer0day.ch:1337
 ```
 
 
-### Раздача на RuTracker.org
-  - Размер: 879.88 MB (блок 431830 от 2020-08-12 12:41:55).
-  - [Torrent файл для загрузки](torrent/blockchain_emc.torrent).
-  - [Ссылка на раздачу на RuTracker.org](https://rutracker.net/forum/viewtopic.php?t=5929476).
-  - [Оформление раздачи в файле rutracker.org.txt](/rutracker.org.txt).
-
+### Distribution on RuTracker.org
+  - Size: 879.88 MB (block 431830 from 2020-08-12 12:41:55).
+  - [Torrent file for download](torrent/blockchain_emc.torrent).
+  - [Link to the distribution on RuTracker.org](https://rutracker.net/forum/viewtopic.php?t=5929476).
+  - [Distribution design in the rutracker.org.txt file](/rutracker.org.txt).
