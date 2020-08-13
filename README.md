@@ -1,4 +1,4 @@
-# Blockchain Emercoin (EMC)
+# Torrent of blockchain Emercoin (EMC)
 ![Emercoin About screenshot](/assets/images/about.png)
 
 
